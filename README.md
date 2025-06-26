@@ -80,3 +80,6 @@ Traversals: Debugging infinite loops caused by incorrect next pointer assignment
 Conclusion:
 
 This task gave me in-depth practical knowledge about how memory and pointers work in C. It taught me how to create self-growing and self-shrinking data structures that are the foundation of more advanced systems. With the help of YouTube tutorials, ChatGPT support, and Grok AI practice, I was able to implement a clean, modular, and user-friendly linked list program. This has laid a strong foundation for learning more complex data structures like doubly linked lists, trees, and graphs in the future.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/405421dd-397b-431d-806f-536e744d3da8)
